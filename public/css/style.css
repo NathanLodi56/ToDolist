@@ -15136,4 +15136,37 @@ readers do not read off random characters that represent icons */
   width: auto;
 }
 
+.debut {
+  background-color: #41f2e0;
+  margin-top: 2rem;
+}
+
+.divTache {
+  border-top: #41f2e0 5px solid;
+}
+
+.btn {
+  background-color: #5600FF;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.row {
+  background-color: #ebedf5;
+}
+
+.fa-check{
+  color: green
+}
+
+.fa-edit{
+  color: orange
+}
+
+.fa-trash-alt{
+  color: red
+}
+
 /*# sourceMappingURL=style.css.map */
