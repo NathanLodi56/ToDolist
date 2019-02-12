@@ -15154,19 +15154,29 @@ ul {
 }
 
 .row {
-  background-color: #ebedf5;
+  /* background-color: #ebedf5; */
+  border:1px solid black;
+  /* background-color: green; */
 }
 
-.fa-check{
-  color: green
+.fa-check-circle{
+  color: #63ff0f;
 }
 
 .fa-edit{
-  color: orange
+  color: orange;
 }
 
 .fa-trash-alt{
-  color: red
+  color: red;
 }
 
 /*# sourceMappingURL=style.css.map */
+.libg-green{
+background-color: green;
+}
+
+.fa-save{
+ color:green;
+
+}
